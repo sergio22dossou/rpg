@@ -2,7 +2,7 @@
 ## EPITECH PROJECT, 2022
 ## Makefile
 ## File description:
-## 101pong
+## make
 ##
 
 SRC 	=	$(wildcard *.c)
